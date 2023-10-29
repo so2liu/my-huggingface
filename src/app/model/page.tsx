@@ -55,7 +55,9 @@ const Model = () => {
     return (
         <div>
             <div className="flex justify-between items-center mb-4">
-                <h1 className="text-3xl">Model</h1>
+                <h1 className="text-3xl">
+                    模型
+                </h1>
                 <Dialog>
                     <DialogTrigger asChild>
                         <Button>创建模型</Button>
